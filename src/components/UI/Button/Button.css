@@ -17,4 +17,11 @@
   background: #ac0e77;
   border-color: #ac0e77;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
+  
+}
+
+.button.invlid{
+  filter: blur(0.5px);
+  background: rgb(234, 153, 153);
+  -webkit-filter: blur(0.25px);
 }
